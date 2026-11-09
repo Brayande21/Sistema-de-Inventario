@@ -81,6 +81,7 @@ python main.py
 ## Capturas de pantalla
 
 <img width="1278" height="787" alt="image" src="https://github.com/user-attachments/assets/9ebdd9e4-0a6d-4d7a-bc9b-52f16e46388f" />
+<img width="1277" height="788" alt="image" src="https://github.com/user-attachments/assets/11653eab-304c-4d77-b002-962a74fa5356" />
 
 
 ## Estado del proyecto
