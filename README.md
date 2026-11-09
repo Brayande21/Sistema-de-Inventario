@@ -80,7 +80,8 @@ python main.py
 
 ## Capturas de pantalla
 
-Aquí se mostrarán capturas del panel principal, la gestión de productos y los movimientos de inventario.
+<img width="1278" height="787" alt="image" src="https://github.com/user-attachments/assets/9ebdd9e4-0a6d-4d7a-bc9b-52f16e46388f" />
+
 
 ## Estado del proyecto
 
